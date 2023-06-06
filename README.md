@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muhammad Muzzamil</h1>
+<h1 align="center">Hi there 👋👨‍🎓, I'm Muhammad Muzzamil</h1>
 <h3 align="center">Dedicated Computer Engineer | Data Scientist | Software Developer | Emerging Technologist</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuzammil196&label=Profile%20views&color=0e75b6&style=flat" alt="mmuzammil196" /> </p>
 
