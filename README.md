@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFmF3o3ihI/aKjb79_1a7DxWryU0wSjwQ/view?utm_content=DAFmF3o3ihI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgug6YGnOb-09jvRH9zfWhBuUgggNB10-u5KoQPo8KqQMGiRqIEttG8SXw3kPlQUirkrL0H_Fki14G9zn0kLun2pedWiGC6-dC1QJP6ZYg7QpzuD32uDUgubaYlXOjsn72RyVr8B1QkMDbMk34CLIvjqpAsEWlZ0rWNIqtsGbxxBayUA6o-w2XC0D4w9A/s320/Computer%20Engineer%20%20Data%20Scientist%20%20AI%20Enthusiast%20Emerging%20Technologist.jpg)](https://mmuzammil.io)
 <h1 align="center">Hi there 👋👨‍🎓, I'm Muhammad Muzzamil</h1>
 <h3 align="center">Dedicated Computer Engineer | Data Scientist | Software Developer | Emerging Technologist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
