@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/blob?bcid=qJcp1GEY7boF7A)](https://mmuzammil.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ08Lc04XtqeSwW9azjkZgq7Q9OzdtlDC9JJmcxaaSSq6Spl0W-ghV5eiSqMk8cLZ4BBrTjKcz1OTGwuWmq_YTT1KWMiZt1DIDBX5SM6iX3gxrxRlyZjiuhIfSxH3K8QFVP5J7fCeBSYgOWR2WwvAe7Lpf-3CymTfMwAgh8ziFnhNvxNL24l3BzbpnBg/s2500/Github%20SMart%20MAster%20Header.jpg)](https://mmuzammil.io)
 <h1 align="center">Hi there 👋👨‍🎓, I'm Muhammad Muzzamil</h1>
 <h3 align="center">Dedicated Computer Engineer | Data Scientist | Software Developer | Emerging Technologist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
