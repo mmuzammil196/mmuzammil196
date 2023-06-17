@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344)](https://mmuzammil196.io)
+[![MasterHead](https://drive.google.com/file/d/11dTqLZ5BXDhy-fWRZHDNRObHW1RX1tsj/view?usp=sharing)](https://mmuzammil196.io)
 <h1 align="center">Hi there 👋👨‍🎓, I'm Muhammad Muzzamil</h1>
 <h3 align="center">Dedicated Computer Engineer | Data Scientist | Software Developer | Emerging Technologist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
